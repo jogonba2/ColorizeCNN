@@ -22,4 +22,8 @@ Colorize black and white images (tested with cifar10). Examples are samples that
 <br/>
 ![Painted6](https://transfer.sh/HSV7I/aaa.jpg "Painted6")
 <br/>
-![Painted6](https://transfer.sh/f8McV/aaa.jpg "Painted7")
+![Painted7](https://transfer.sh/xkLFF/aaa.jpg "Painted7")
+<br/>
+![Painted8](https://transfer.sh/vv1dt/aaa.jpg "Painted8")
+<br/>
+![Painted9](https://transfer.sh/5Jbsn/aaa.jpg "Painted9")
