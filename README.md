@@ -1,7 +1,7 @@
 # ColorizeCNN
 Colorize black and white images (tested with cifar10). Examples are samples that CNN never saw.
 
-# Examples (Painted|Truth)
+# Examples CIFAR10 (Painted|Truth)
 
 
 ![Painted1](https://image.ibb.co/dnYZvv/predicted29.jpg "Painted1")
@@ -15,3 +15,11 @@ Colorize black and white images (tested with cifar10). Examples are samples that
 <br/>
 ![Painted4](https://image.ibb.co/eMyCha/predicted495.jpg "Painted4")
 ![Truth4](https://image.ibb.co/dCb9TF/truth495.jpg "Truth4")
+
+# Examples Imagenet
+
+![Painted5](https://transfer.sh/169fSU/aaa.jpg "Painted5")
+<br/>
+![Painted6](https://transfer.sh/HSV7I/aaa.jpg "Painted6")
+<br/>
+![Painted6](https://transfer.sh/f8McV/aaa.jpg "Painted7")
