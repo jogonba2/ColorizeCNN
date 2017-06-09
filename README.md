@@ -1,5 +1,5 @@
 # ColorizeCNN
-Colorize black and white images (tested with cifar10). Examples are samples that CNN never saw.
+Colorize black and white images. Examples are samples that CNN never saw.
 
 # Examples CIFAR10 (Painted|Truth)
 
